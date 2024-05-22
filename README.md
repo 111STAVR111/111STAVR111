@@ -37,7 +37,7 @@ We are trusted by over **5,200 delegates** and securing more than **16M$** in us
 
 <div align="center">
  
-[<img src='https://github.com/111STAVR111/logo/blob/main/Nodes%20Guides.png?raw=true' alt='discord' height='115!'>](https://github.com/obajay/nodes-Guides)[<img src='https://github.com/111STAVR111/logo/blob/main/SnapShots.png?raw=true' alt='discord' height='115!'>](https://github.com/obajay/StateSync-snapshots)
+[<img src='https://github.com/111STAVR111/logo/blob/main/Nodes%20Guides.png?raw=true' alt='discord' height='115!'>](https://stavr-team.gitbook.io/nodes-guides)[<img src='https://github.com/111STAVR111/logo/blob/main/SnapShots.png?raw=true' alt='discord' height='115!'>](https://stavr-team.gitbook.io/nodes-guides)
     <br />
 <br />
   </div>
